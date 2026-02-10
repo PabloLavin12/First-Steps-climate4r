@@ -1,14 +1,10 @@
-# TFM - Master en Ciencia de Datos UC - Estudio Climatico y Agroclimatico de la Peninsula Iberica
-
-## Prácticas y TFM - Máster en Ciencia de Datos (UC)
+# Estudio Climatico y Agroclimatico de la Peninsula Iberica
 
 **Estudio climático y agroclimático de la Península Ibérica** 
 
-_Beca JAE Intro ICU 2025_
-
 ### Descripción
 
-Este repositorio recopila las prácticas y el Trabajo Fin de Máster (TFM) desarrollados dentro del Grupo de Meteorología de Santander (https://github.com/SantanderMetGroup) en el marco del Máster en Ciencia de Datos de la Universidad de Cantabria.
+Este repositorio recopila los primeros pasos dentro del framework de climate4R dentro del Grupo de Meteorología de Santander (https://github.com/SantanderMetGroup) en el marco del Máster en Ciencia de Datos de la Universidad de Cantabria.
 
 El proyecto se centra en el análisis climático de la Península Ibérica, con un enfoque aplicado al ámbito agroclimático mediante el uso de índices climáticos. El objetivo principal es estudiar la variabilidad y tendencias climáticas y su impacto en el sector agro, empleando técnicas avanzadas de ciencia de datos.
 
@@ -28,9 +24,7 @@ Los datos utilizados proceden de fuentes abiertas de reanálisis y observación 
 
 ## Autoría
 
-Este proyecto ha sido desarrollado por *Pablo Lavín Pellón*, dentro del Máster en Ciencia de Datos (Universidad de Cantabria), bajo la Beca JAE Intro ICU 2025.
-
-*Este repositorio está en desarrollo.*
+Este proyecto ha sido desarrollado por *Pablo Lavín Pellón*, dentro del Máster en Ciencia de Datos (Universidad de Cantabria).
 
 ## Licencia
 
